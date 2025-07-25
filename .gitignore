@@ -65,7 +65,6 @@ coverage.xml
 .pyre/
 
 # VS Code
-.vscode/
 
 # macOS
 .DS_Store
